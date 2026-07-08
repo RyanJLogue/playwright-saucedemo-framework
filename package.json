@@ -1,0 +1,22 @@
+{
+  "name": "playwright-saucedemo-framework",
+  "version": "1.0.0",
+  "description": "Playwright test automation framework for SauceDemo, built with Page Object Model, custom fixtures, and reusable utilities.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanJLogue/playwright-saucedemo-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanJLogue/playwright-saucedemo-framework/issues"
+  },
+  "homepage": "https://github.com/RyanJLogue/playwright-saucedemo-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.1"
+  }
+}
